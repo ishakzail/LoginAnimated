@@ -1,3 +1,3 @@
 # LoginAnimated
 
-![](loginScreen.jpg)
+![](Screen/loginScreen.jpg)
