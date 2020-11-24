@@ -1,5 +1,5 @@
 # LoginAnimated
 
-Login/ Register page using React.js and SCSS :
+ Animated Login/Register page using React.js and SCSS :
 
 ![](Screen/loginScreen.jpg)
