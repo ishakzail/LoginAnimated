@@ -2,4 +2,4 @@
 
  Animated Login/Register page using React.js and SCSS :
 
-![](Screen/loginScreen.jpg)
+![](Front-end/Screen/loginScreen.jpg)
